@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APPS>
+<default_app_n1 value="com.termux-com.termux.app.TermuxActivity"/>
+<default_app_n2 value="nextapp.sp-nextapp.sp.ui.MainActivity"/>
+<default_app_n3 value="me.yourbay.airfrozen-me.yourbay.airfrozen.main.uimodule.Launcher"/>
+<default_app_n4 value="null"/>
+<default_app_n5 value="null"/>
+<app_groups_sorting value="2"/>
+
+<hackin apps="com.offsec.nethunter-com.offsec.nethunter.AppNavHomeActivity;com.offsec.nhvnc-android.androidVNC.androidVNC;com.offsec.nethunter.store-org.fdroid.fdroid.views.main.MainActivity;com.offsec.nhterm-com.offsec.nhterm.Term"/>
+<linux apps="com.termux-com.termux.app.TermuxActivity"/>
+</APPS>

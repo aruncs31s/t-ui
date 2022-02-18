@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RSS>
+<rss_default_color value="#f44336"/>
+<rss_default_format value="%[50][green]title ### %[100][teal]description (%pubDate)"/>
+<include_rss_default value="true"/>
+<rss_hidden_tags value="img"/>
+<rss_time_format value="%t0"/>
+<show_rss_download value="true"/>
+<rss_download_format value="RSS: %id --- Downloaded %sb bytes"/>
+<rss_download_message_color value="aqua"/>
+<click_rss value="true"/>
+<rss id="1" updateTimeSec="1000" show="true" url="https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms" lastShownItem="1644745825000" lastChecked="1645191477333"/>
+<rss id="2" updateTimeSec="1000" show="true" url="https://www.techmeme.com/feed.xml?x=1" lastShownItem="1645191000000" lastChecked="1645191483430"/>
+</RSS>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RSS>
+<rss_default_color value="#f44336"/>
+<rss_default_format value="%[50][green]title ### %[100][teal]description (%pubDate)"/>
+<include_rss_default value="true"/>
+<rss_hidden_tags value="img"/>
+<rss_time_format value="%t0"/>
+<show_rss_download value="true"/>
+<rss_download_format value="RSS: %id --- Downloaded %sb bytes"/>
+<rss_download_message_color value="aqua"/>
+<click_rss value="true"/>
+<rss id="1" updateTimeSec="600" show="true" url="https://www.aljazeera.com/xml/rss/all.xml" lastShownItem="1635171186000" lastChecked="1635171703538" timeFormat="EEE, d MMM yyyy HH:mm:ss Z"/>
+<rss id="2" updateTimeSec="600" show="true" url="https://www.nation.co.ke/1148-2613630-view-asFeed-iahce3/index.xml" lastChecked="1635171713358" pubDateTag="dc:date" timeFormat="EEE, d MMM yyyy HH:mm:ss Z'" lastShownItem="1578360600000"/>
+<rss id="3" updateTimeSec="600" show="true" url="https://www.standardmedia.co.ke/rss/kenya.php" lastChecked="1635171702584" timeFormat="EEE, d MMM yyyy HH:mm:ss Z" lastShownItem="1635093377000"/>
+<rss id="4" updateTimeSec="30060" show="true" url="http://feeds.bbci.co.uk/news/world/rss.xml" lastChecked="1635167771792" timeFormat="EEE, d MMM yyyy HH:mm:ss Z" lastShownItem="1635161851000"/>
+<rss id="5" updateTimeSec="600" show="true" url="https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms" lastShownItem="1635167631000" lastChecked="1635171717155"/>
+</RSS>

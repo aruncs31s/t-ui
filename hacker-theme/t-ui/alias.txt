@@ -1,0 +1,6 @@
+rotate=su -c settings put system user_rotation %
+yt=search -u www.youtube.com
+notifs=su -c dumpsys notification --noredact
+storenotifs=su -c dumpsys notification --noredact >> /sdcard/t-ui/notifs.txt
+notifsapp=su -c dumpsys notification | egrep NotificationRecord | awk -F\| '{print $2}'
+google=search -u https://google.com/search?q=%
