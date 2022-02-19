@@ -1,9 +1,8 @@
 # T-UI
 <br />
-[themes](https://github.com/aruncs31s/t-ui/blob/main/themes/README.md).
+This site was built using [Themes](https://github.com/aruncs31s/t-ui/blob/main/themes/).
 <br />
-[basic commands](https://github.com/aruncs31s/t-ui/blob/main/commands/README.md).
-<br />
+hi[basic commands](https://github.com/aruncs31s/t-ui/blob/main/commands/README.md/).
 [hi](www.google.com).
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+
